@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm Fernando 👋🏻👨🏻‍💻
 
+```js
+const Fernando = {
+  pronouns _ "He" | "Him",
+  code : [Javascript,Python,HTML,CSS],
+  tools: [React,Node,Storybook,Styled-Componets,Jest,bootstrap],
+  
+  }
+```
+You cant find me 🌍: 
+-[Linkedin] : {https://www.linkedin.com/in/fernando-vargas-168b45234/}
 <!--
 **Exequiel993/Exequiel993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
