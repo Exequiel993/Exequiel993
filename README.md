@@ -9,7 +9,7 @@ const Fernando = {
   }
 ```
 You cant find me 🌍: 
--[Linkedin] : {https://www.linkedin.com/in/fernando-vargas-168b45234/}
+-[Linkedin] : {https://www.linkedin.com/in/fernando-vargas-b14918248/}
 
 ## :star: Languages and Tools:
 
